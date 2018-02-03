@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=roomName\ roomNumber\ guestOneName\ guestTwoName\ category
+comment0.target=DoubleRoom(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ TipeBed)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ DoubleRoom\r\n
+comment1.params=category
+comment1.target=void\ setTipeBed(TipeBed)
+comment1.text=\r\n\ Method\ untuk\ memasukkan\ kategori\ tempat\ tidur\r\n\ @param\ category\ Parameter\ dari\ method\ setTipeBed\ yang\ merujuk\ ke\ class\ TipeBed\r\n
+comment2.params=
+comment2.target=TipeBed\ getTipeBed()
+comment2.text=\r\n\ Method\ untuk\ menampilkan\ tipe\ tempat\ tidur\r\n\ @return\ category\ Mengembalikan\ isi\ data\ dari\ instance\ variable\ category\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Method\ untuk\ menampilkan\ toString\ dari\ class\ ini\r\n
+numComments=4

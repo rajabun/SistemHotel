@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Admin()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Admin\r\n
+comment1.params=data
+comment1.target=boolean\ AddNewRoom(Room)
+comment1.text=\r\n\ Method\ untuk\ menambah\ ruangan\ ke\ database\ ruangan\r\n\ \r\n\ @param\ data\ Parameter\ dari\ method\ AddNewRoom\ yang\ merujuk\ ke\ kelas\ Room\r\n\ @return\ true/false\ Mengembalikan\ isi\ data\ dari\ method\ ini\ dengan\ nilai\ true/false\r\n
+comment2.params=data
+comment2.target=boolean\ RemoveRoom(Room)
+comment2.text=\r\n\ Method\ untuk\ menghapus\ ruangan\ dari\ database\ ruangan\r\n\ \r\n\ @param\ data\ Parameter\ dari\ method\ RemoveRoom\ yang\ merujuk\ ke\ kelas\ Room\r\n\ @return\ true/false\ Mengembalikan\ isi\ data\ dari\ method\ ini\ dengan\ nilai\ true/false\r\n
+comment3.params=roomName\ available
+comment3.target=void\ ChangeRoomAvailability(java.lang.String,\ boolean)
+comment3.text=\r\n\ Metode\ untuk\ mengganti\ ketersediaan\ ruangan\r\n
+comment4.params=saldo
+comment4.target=void\ ReceivePayment(int)
+comment4.text=\r\n\ Metode\ untuk\ menerima\ pembayaran\r\n
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Customer()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Customer\r\n
+comment1.params=ruangan
+comment1.target=void\ SelectRoom(TipeRuangan)
+comment1.text=\r\n\ Method\ untuk\ memilih\ ruangan\r\n\ @param\ ruangan\ Parameter\ dari\ method\ SelectRoom\ yang\ merujuk\ ke\ class\ TipeRuangan\r\n
+comment2.params=top
+comment2.target=void\ TopUpSaldo(int)
+comment2.text=\r\n\ Method\ untuk\ menambah(memasukkan)\ saldo\r\n\ @param\ top\ Parameter\ dari\ method\ TopUpSaldo\ berupa\ integer\r\n
+comment3.params=
+comment3.target=void\ PayBooking()
+comment3.text=\r\n\ Method\ untuk\ membayar\ booking\ ruangan\r\n\ @param\ booking\ Parameter\ dari\ method\ PayBooking\ berupa\ integer\r\n
+numComments=4

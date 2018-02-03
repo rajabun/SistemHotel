@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DataRoom()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ DataRoom\r\n
+comment1.params=
+comment1.target=void\ lihatDatabaseRuangan()
+comment1.text=\r\n\ Method\ untuk\ melihat\ database\ customer\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getDatabaseRuangan()
+comment2.text=\r\n\ Method\ untuk\ mengembalikan\ instance\ database\ customer\r\n\ @return\ Akun\ Mengembalikan\ isi\ data\ dari\ instance\ variable\ Akun\r\n
+comment3.params=
+comment3.target=Room\ getRuangan()
+comment3.text=\r\n\ Method\ untuk\ menampilkan\ data\ customer\r\n\ @return\ Akun\ Mengembalikan\ isi\ data\ dari\ instance\ variable\ Akun\r\n
+numComments=4

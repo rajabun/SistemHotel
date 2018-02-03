@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=roomName\ roomNumber\ guestName
+comment0.target=SingleRoom(java.lang.String,\ int,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ SingleRoom\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ Method\ untuk\ menampilkan\ toString\ dari\ class\ ini\r\n
+numComments=2

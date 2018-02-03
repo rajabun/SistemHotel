@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=User()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ User\r\n
+comment1.params=
+comment1.target=boolean\ checkLoginStatus()
+comment1.text=\r\n\ Metode\ untuk\ mengecek\ status\ login\r\n
+comment2.params=
+comment2.target=void\ Login()
+comment2.text=\r\n\ Metode\ login\ akun\ untuk\ masuk\ kedalam\ sistem\r\n
+comment3.params=saldo
+comment3.target=void\ createCustomerAccount(int)
+comment3.text=\r\n\ Metode\ untuk\ membuat\ akun\ customer\ baru\r\n
+comment4.params=
+comment4.target=void\ createAdminAccount()
+comment4.text=\r\n\ Metode\ untuk\ membuat\ akun\ admin\ baru\r\n
+comment5.params=
+comment5.target=void\ Logout()
+comment5.text=\r\n\ Metode\ logout\ akun\ untuk\ keluar\ sistem\r\n
+comment6.params=
+comment6.target=void\ checkSaldo()
+comment7.params=
+comment7.target=int\ getSaldo()
+numComments=8
